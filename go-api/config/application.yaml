@@ -1,6 +1,6 @@
 # config/application.yaml
 application:
-  host: 0.0.0.0
+  host: any
   port: 4000
 
 api2:
